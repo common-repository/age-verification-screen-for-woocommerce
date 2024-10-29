@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-03-22 17:44+0200\n"
+"PO-Revision-Date: 2021-03-22 17:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: src/Admin/PostRestrictionManager.php:51
+msgid "Filter by age restriction"
+msgstr ""
+
+#: src/Admin/PostRestrictionManager.php:53
+msgid "Age restricted"
+msgstr ""
+
+#: src/Admin/PostRestrictionManager.php:77
+msgid "Age restriction"
+msgstr ""
+
+#: src/Admin/PostRestrictionManager.php:88
+msgid "Restricted"
+msgstr ""
+
+#: src/Admin/PostRestrictionManager.php:97
+msgid "Restrict Age"
+msgstr ""
+
+#: src/Admin/PostRestrictionManager.php:98
+msgid "Remove Age Restriction"
+msgstr ""
+
+#: src/Admin/PostRestrictionManager.php:117
+#: src/Admin/PostRestrictionManager.php:127
+msgid "Restriction items have been changed successfully."
+msgstr ""
+
+#: src/AgeVerificationPlugin.php:55
+msgid "Settings"
+msgstr ""
+
+#: src/AgeVerificationPlugin.php:58
+msgid "Account"
+msgstr ""
+
+#: src/AgeVerificationPlugin.php:62 views/admin/alerts/opt-in-alert.php:35
+#: views/admin/alerts/premium-thanking-alert.php:23
+msgid "Contact us"
+msgstr ""
+
+#: src/AgeVerificationPlugin.php:66
+msgid "Go premium"
+msgstr ""
+
+#: src/AgeVerificationPlugin.php:98
+#, php-format
+msgid "The %s plugin requires %s plugin to be active!"
+msgstr ""
+
+#: src/Customizer/Customizer.php:66 src/Settings/Settings.php:86
+#: src/Settings/Settings.php:127
+msgid "Age Verification Screen"
+msgstr ""
+
+#: src/Customizer/Customizer.php:85
+msgid "Display type"
+msgstr ""
+
+#: src/Customizer/Customizer.php:86
+msgid ""
+"<br><strong>Modal box:</strong> Centered pop-up w/ blurred background of the "
+"destination page. <br><br> <strong>Full page:</strong> The pop-up that "
+"covers the entire page w/ image or filled color on the background."
+msgstr ""
+
+#: src/Customizer/Customizer.php:88
+msgid "Modal box"
+msgstr ""
+
+#: src/Customizer/Customizer.php:89
+msgid "Full page"
+msgstr ""
+
+#: src/Customizer/Customizer.php:96 src/Settings/FailureRedirectOption.php:93
+#: src/Settings/RestrictionRulesOption.php:136
+#: src/Settings/RestrictionRulesOption.php:226
+msgid "Available only in the premium version"
+msgstr ""
+
+#: src/Customizer/Customizer.php:102
+msgid "Confirmation type"
+msgstr ""
+
+#: src/Customizer/Customizer.php:104
+msgid "Checkbox"
+msgstr ""
+
+#: src/Customizer/Customizer.php:105
+msgid "Buttons"
+msgstr ""
+
+#: src/Customizer/Customizer.php:106
+msgid "Age selection"
+msgstr ""
+
+#: src/Customizer/Customizer.php:113
+msgid "Heading"
+msgstr ""
+
+#: src/Customizer/Customizer.php:119
+msgid "Short description"
+msgstr ""
+
+#: src/Customizer/Customizer.php:125
+msgid "Text beside checkbox"
+msgstr ""
+
+#: src/Customizer/Customizer.php:134
+msgid "Text on the Confirm button"
+msgstr ""
+
+#: src/Customizer/Customizer.php:140
+msgid "Text on the Cancel button"
+msgstr ""
+
+#: src/Customizer/Customizer.php:149
+msgid "Blur opacity"
+msgstr ""
+
+#: src/Customizer/Customizer.php:165
+msgid "Modal background color"
+msgstr ""
+
+#: src/Customizer/Customizer.php:178
+msgid "Background image"
+msgstr ""
+
+#: src/Customizer/Customizer.php:192
+msgid "Background color"
+msgstr ""
+
+#: src/Customizer/Customizer.php:204
+msgid "Text color"
+msgstr ""
+
+#: src/Customizer/Customizer.php:212
+msgid "Warning message"
+msgstr ""
+
+#: src/Customizer/Customizer.php:267 src/Customizer/Customizer.php:304
+msgid "Confirm your age"
+msgstr ""
+
+#: src/Customizer/Customizer.php:272 src/Customizer/Customizer.php:308
+msgid "We require users to be 18 years to use the site"
+msgstr ""
+
+#: src/Customizer/Customizer.php:277
+msgid "I'm over 18 y.o."
+msgstr ""
+
+#: src/Customizer/Customizer.php:282 src/Customizer/Customizer.php:312
+#: src/Customizer/Customizer.php:320 src/Customizer/Customizer.php:324
+msgid "Confirm"
+msgstr ""
+
+#: src/Customizer/Customizer.php:287 src/Customizer/Customizer.php:316
+msgid "Cancel"
+msgstr ""
+
+#: src/Customizer/Customizer.php:292
+msgid "Your age is below the minimum required"
+msgstr ""
+
+#: src/Settings/CookieOption.php:52
+msgid ""
+"Choose for how many days you want to remember users' choice. E.g., if you "
+"set up 30 days, the user would be able to access age-restricted pages all "
+"these days without re-confirmation of age."
+msgstr ""
+
+#: src/Settings/CookieOption.php:68
+msgid " Purge users' cookies"
+msgstr ""
+
+#: src/Settings/CookieOption.php:77
+msgid "Cookie lifetime (days)"
+msgstr ""
+
+#: src/Settings/CookieOption.php:109
+msgid "Cookie hash has been successfully updated"
+msgstr ""
+
+#: src/Settings/CookieOption.php:112
+msgid "Invalid nonce"
+msgstr ""
+
+#: src/Settings/CustomizeButtonOption.php:21
+msgid "Customize view"
+msgstr ""
+
+#: src/Settings/FailureRedirectOption.php:38
+#: src/Settings/FailureRedirectOption.php:111
+msgid "Previous page"
+msgstr ""
+
+#: src/Settings/FailureRedirectOption.php:51
+#: src/Settings/FailureRedirectOption.php:112
+msgid "Site page"
+msgstr ""
+
+#: src/Settings/FailureRedirectOption.php:68
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: src/Settings/FailureRedirectOption.php:82
+#: src/Settings/FailureRedirectOption.php:113
+msgid "Custom URL"
+msgstr ""
+
+#: src/Settings/FailureRedirectOption.php:99
+msgid ""
+"Those users who turned out to be below the minimum age mark might be "
+"redirected to the page where your age policy is explained."
+msgstr ""
+
+#: src/Settings/FailureRedirectOption.php:120
+msgid "Failure redirect"
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:24
+msgid "Entire site"
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:25
+msgid "Partial"
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:52
+msgid "Post types"
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:55
+msgid ""
+"Pick up pages on which you want to display restriction pop-up. If website "
+"visitors confirm age on any of these pages, they'd be allowed to access any "
+"other age - restricted page as well ."
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:72
+#: src/Settings/RestrictionRulesOption.php:120
+#: src/Settings/RestrictionRulesOption.php:162
+#: src/Settings/RestrictionRulesOption.php:209
+msgid "Restrict All "
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:82
+#: src/Settings/RestrictionRulesOption.php:129
+#: src/Settings/RestrictionRulesOption.php:172
+#: src/Settings/RestrictionRulesOption.php:218
+msgid "Restrict partial"
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:98
+#: src/Settings/RestrictionRulesOption.php:188
+#, php-format
+msgid "See restricted items (%d)"
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:142
+msgid "Taxonomies"
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:145
+msgid ""
+"In case you restrict the whole taxonomy, each page, which belongs to this "
+"taxonomy will be restricted. E.g., if you restricted the category, each "
+"product page inside this category will be age-restricted, not only the shop/"
+"category page. "
+msgstr ""
+
+#: src/Settings/RestrictionRulesOption.php:241
+msgid "Restricting type"
+msgstr ""
+
+#: src/Settings/Settings.php:87
+msgid "This controls look and feel of Age Verification Screen at your store."
+msgstr ""
+
+#: src/Settings/Settings.php:95
+msgid "Minimum allowed age"
+msgstr ""
+
+#: src/Settings/Settings.php:96
+msgid ""
+"Select the minimum allowed age for your website. A website that promotes "
+"alcohol in the United States might set this to 21, for example."
+msgstr ""
+
+#: views/admin/alerts/activation-alert.php:13
+#, php-format
+msgid ""
+"Thanks for installing Age Verification Screen for WooCommerce! You can "
+"customize it %s"
+msgstr ""
+
+#: views/admin/alerts/activation-alert.php:14
+msgid "here"
+msgstr ""
+
+#: views/admin/alerts/opt-in-alert.php:23
+msgid "Opt in for upgrading and using more features!"
+msgstr ""
+
+#: views/admin/alerts/opt-in-alert.php:32
+msgid "Activate Plugin!"
+msgstr ""
+
+#: views/admin/alerts/premium-thanking-alert.php:14
+msgid "Thanks! You are using premium version of the plugin!"
+msgstr ""
+
+#: views/admin/alerts/premium-thanking-alert.php:21
+msgid "My Account"
+msgstr ""
+
+#: views/admin/alerts/upgrade-alert.php:22
+msgid ""
+"You are using the free version of plugin. Upgrade to premium version to get "
+"all features."
+msgstr ""
+
+#: views/admin/alerts/upgrade-alert.php:32
+msgid "Upgrade to Premium!"
+msgstr ""
+
+#: views/admin/alerts/upgrade-alert.php:34
+msgid "Contact Us!"
+msgstr ""
+
+#: views/frontend/confirmations/age-select.php:11
+msgid "Select year"
+msgstr ""
+
+#: views/frontend/confirmations/age-select.php:19
+msgid "Select month"
+msgstr ""
+
+#: views/frontend/confirmations/age-select.php:30
+msgid "Select day"
+msgstr ""
