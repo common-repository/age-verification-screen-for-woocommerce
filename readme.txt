@@ -2,8 +2,8 @@
 Contributors: Alpaka WP, freemius
 Tags: age verification, age verify, age restriction, age gate, age popup
 Requires at least: 5.6.1
-Tested up to: 6.5
-Stable tag: 1.1.0
+Tested up to: 6.7
+Stable tag: 1.1.1
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -58,7 +58,12 @@ If the user already passed the age-check, we save cookie files in their browser,
 
 == Changelog ==
 
-= 1.1. =
+= 1.1.1 =
+Release Date: November 1, 2024
+* Update: Compatibility with WordPress 6.7
+* Update: Freemius version 2.9.0
+
+= 1.1.0 =
 Release Date: May 11, 2024
 * Security fixes
 * Bug fixes & minor improvements

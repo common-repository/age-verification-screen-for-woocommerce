@@ -7,7 +7,7 @@ use AlpakaWP\AgeVerification\AgeVerificationPlugin;
  * Plugin Name:       Age Verification Screen for WooCommerce
  * Plugin URI:        https://alpakawp.com/plugins/age-verification-screen-for-woocommerce
  * Description:       A simple age verification screen to your shop. Can easily restrict any pages, categories, or products from visitors who are under legal age.
- * Version:           1.1.0
+ * Version:           1.1.1
  * Author:            Alpaka WP
  * Author URI:        https://alpakawp.com
  * License:           GPL-2.0+
